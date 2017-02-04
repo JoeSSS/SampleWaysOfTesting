@@ -10,4 +10,6 @@ junit_report: --format junit --out test-reports
 #JSON report profiles
 json_report: --format json -o test-reports/cucumber.json
 
-ios: -p html_report -p junit_report -p json_report -r features/support -r features/steps -r features/screens --t @automated
+ios: -p html_report -p junit_report -p json_report -r features/ios/support -r features/support -r features/steps -r features/ios/screens --t @ios
+
+android: -p html_report -p junit_report -p json_report -r features/android/support -r features/support -r features/steps -r features/android/screens --t @android

@@ -8,7 +8,6 @@
     <orderEntry type="library" scope="PROVIDED" name="awesome_print (v1.7.0, RVM: ruby-2.3.1) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="builder (v3.2.3, RVM: ruby-2.3.1) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="bundler (v1.13.6, RVM: ruby-2.3.1) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="calabash-cucumber (v0.20.4, RVM: ruby-2.3.1) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="clipboard (v1.1.1, RVM: ruby-2.3.1) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="coderay (v1.1.1, RVM: ruby-2.3.1) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="command_runner_ng (v0.1.0, RVM: ruby-2.3.1) [gem]" level="application" />
@@ -17,15 +16,19 @@
     <orderEntry type="library" scope="PROVIDED" name="cucumber-wire (v0.0.1, RVM: ruby-2.3.1) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="diff-lcs (v1.3, RVM: ruby-2.3.1) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="edn (v1.1.1, RVM: ruby-2.3.1) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="escape (v0.0.4, RVM: ruby-2.3.1) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="geocoder (v1.4.2, RVM: ruby-2.3.1) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="gherkin (v4.0.0, RVM: ruby-2.3.1) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="httpclient (v2.8.3, RVM: ruby-2.3.1) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="i18n (v0.8.0, RVM: ruby-2.3.1) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="json (v1.8.6, RVM: ruby-2.3.1) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="luffa (v2.0.0, RVM: ruby-2.3.1) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="method_source (v0.8.2, RVM: ruby-2.3.1) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="multi_json (v1.12.1, RVM: ruby-2.3.1) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="multi_test (v0.1.2, RVM: ruby-2.3.1) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="pry (v0.10.4, RVM: ruby-2.3.1) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="retriable (v2.0.2, RVM: ruby-2.3.1) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rubyzip (v1.2.0, RVM: ruby-2.3.1) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="run_loop (v2.3.0, RVM: ruby-2.3.1) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="slop (v3.6.0, RVM: ruby-2.3.1) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="slowhandcuke (v0.0.3, RVM: ruby-2.3.1) [gem]" level="application" />

@@ -4,14 +4,14 @@ class WelcomeScreen < BasePage
   end
 
   def checkButton
-    "UIButton marked:'Check the number'"
+    "AppCompatButton id:'button'"
   end
 
   def resultLabel
-    'UIButton sibling UILabel'
+    "AppCompatTextView id:'textView'"
   end
 
   def inputField
-    'UITextField'
+    "AppCompatEditText id:'editText'"
   end
-  end
+end

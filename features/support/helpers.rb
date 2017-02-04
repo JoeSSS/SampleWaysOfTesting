@@ -1,4 +1,5 @@
 require 'pry'
+
 def create_page_by_name(page_name)
   create_page(Object.const_get(page_name))
 end
