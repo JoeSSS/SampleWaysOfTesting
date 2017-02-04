@@ -14,11 +14,10 @@ An Calabash project that built to show how easy you can implement page objects a
 More about calabash-ios requirements you can find here: https://github.com/calabash/calabash-ios  
 
 #### To run tests in Android:
-1) Android environment (JDK, Android SDK, Android instruments)
-2) Ruby >= 2.0.0
-3) bundle install
-4) bundle exec cucumber -p android
-
+1) Android environment (JDK, Android SDK, Android instruments)  
+2) Ruby >= 2.0.0  
+3) bundle install  
+4) bundle exec cucumber -p android  
 More about calabash-android requirements you can find here: https://github.com/calabash/calabash-android
 
   
