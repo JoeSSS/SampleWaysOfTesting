@@ -8,9 +8,9 @@ An Calabash-ios project that built to show how easy you can implement page objec
 
 #### To run tests:
 1) Xcode 8+  
-2) Ruby >= 2.2.0
+2) Ruby >= 2.2.0  
 3) bundle install  
-4) bundle exec cucumber -p ios  
+4) bundle exec cucumber -p ios    
 More about Calabash requirements you can find here: https://github.com/calabash/calabash-ios  
 
   
