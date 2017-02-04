@@ -1,0 +1,13 @@
+# config/cucumber.yml
+##YAML Template
+
+# HTML report profiles
+html_report: --format html --out index.html --format pretty
+
+# JUNIT report profiles
+junit_report: --format junit --out test-reports
+
+#JSON report profiles
+json_report: --format json -o test-reports/cucumber.json
+
+ios: -p html_report -p junit_report -p json_report -r features/support -r features/steps -r features/screens --t @automated
