@@ -47,3 +47,7 @@ Then(/^the color in ([^\"]*) is (green|red|yellow)$/) do |element, color|
     raise 'Color is incrrect' if current_color != red
   end
 end
+
+Then(/^I change the color to be "([^"]*)"$/) do |color|
+  backdoor('changeColor', color)
+end
