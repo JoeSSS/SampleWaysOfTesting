@@ -1,5 +1,9 @@
 message "Jenkins build: [#{ENV['JOB_NAME']} ##{ENV['BUILD_NUMBER']}](#{ENV['BUILD_URL']})"
 
+if ENV['ghprbCommentBody']
+    message "Tests were executed with @#{ENV['ghprbCommentBody'].split('@').last} tag" if ENV['ghprbCommentBody'].include? '@'
+end
+
 number_of_logs = 0
 number_of_failures = 0
 time = 0
