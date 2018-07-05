@@ -7,7 +7,7 @@ A simle one-screen APP when you can check whether entered data is Int or not. Co
 An Calabash project that built to show how easy you can implement page objects and write different tests reusing page objects and gherkin steps for iOS and Android in a single project.
 
 #### To run tests on iOS:
-1) Xcode 8+  
+1) Xcode 9+  
 2) Ruby >= 2.2.0  
 3) bundle install  
 4) bundle exec cucumber -p ios    
